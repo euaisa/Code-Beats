@@ -3,13 +3,13 @@
 Welcome to Code Beats, a project where everyone can create their own page showcasing their favorite song. In this project, participants will learn to integrate music and programming by creating an interactive webpage.
 
 <h2>Features</h2>
-Easy-to-use HTML and CSS templates to create a personal music page.
+Easy-to-use HTML, CSS and JQuery Mobile templates to create a personal music page.
 Ability to customize the page with personal images and text.
-Built-in audio player to stream the favorite song.
+Built-in audio player or clickable link to stream the favorite song.
 Option to share the page with friends and family.
 
 <h2>Requirements</h2>
-Basic understanding of HTML and CSS.
+Basic understanding of HTML, CSS and JQuery Mobile.
 Familiarity with a text editor (e.g. Sublime, Atom, Visual Studio Code).
 
 <h2>How to get started</h2>
