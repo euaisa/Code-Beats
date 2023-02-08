@@ -23,4 +23,4 @@ Commit and push your changes to the repository.
 We welcome contributions from anyone interested in improving the project. If you have an idea for a new feature or a bug fix, please open a pull request and we will review it as soon as possible.
 
 
-<h2>Get ready to rock and roll with Code Beats!</h2>
+<h3>Get ready to rock and roll with Code Beats!</h3>
